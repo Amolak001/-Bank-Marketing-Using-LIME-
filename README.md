@@ -84,7 +84,7 @@ lime
 
 1. Clone the repository:
  ```bash
- git clone <repository-url>
+ git clone https://github.com/Amolak001/Bank-Marketing-Using-LIME
 ```
 
 2. Install required Python libraries:
